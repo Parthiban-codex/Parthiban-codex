@@ -3,6 +3,9 @@
 </div>
 
 <p align="center">
+  <a href="https://parthiban-rouge.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF9900?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Button" />
+  </a>
   <a href="https://www.linkedin.com/in/parthiban-online/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
@@ -16,7 +19,18 @@
   🎓 Final Year <b>MCA Student</b> passionate about Web Development & Cloud Computing.<br>
   ☁️ Active <b>AWS Cloud Learner</b> exploring scalable backend infrastructure.<br>
   🚀 Building full-stack web applications using <b>Python, Flask, and MySQL</b>.<br>
+  🌐 Check out my <b><a href="https://parthiban-rouge.vercel.app/">Developer Portfolio</a></b>.<br>
   🌱 Currently learning <b>Cloud Architecture, DevOps basics & Advanced Python</b>.
+</p>
+
+---
+
+### 🚀 Featured Project
+
+<p align="left">
+  🏆 <b>Capsule Care Clinic (Hackathon Project)</b><br>
+  A healthcare web application built to streamline clinic management and patient records.<br>
+  🔗 <b>Live Demo:</b> <a href="https://capsulecareclinic.onrender.com/">capsulecareclinic.onrender.com</a>
 </p>
 
 ---
@@ -30,19 +44,12 @@
   <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0055FF?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parthiban-codex&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiban-codex&theme=radical&hide_border=true" />
 </p>
 
 ---
